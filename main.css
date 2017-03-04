@@ -1,0 +1,91 @@
+.content {
+	height:700px;
+	width:100%;
+
+}
+.content1 {
+	height:300px;
+	width:300px;
+	background-color:#FFF;
+	float:left;
+	margin-left:40px;
+	
+}
+.content2{
+	height:700px;
+	width:900px;
+	float:right;
+}
+
+.pic1{
+	height:200px;
+	width:200px;
+	float:left;
+	margin:30px;
+	background-image:url(img/1.jpg);
+	margin-top:0px;
+}
+.pic2{
+	height:200px;
+	width:200px;
+	float:left;
+	margin:30px;
+	background-image:url(img/2.jpg);
+	margin-top:0px;
+}
+.pic3{
+	height:200px;
+	width:200px;
+	float:left;
+	margin:30px;
+	background-image:url(img/3.jpg);
+	margin-top:0px;
+}
+.pic4{
+	height:200px;
+	width:200px;
+	float:left;
+	margin:30px;
+	background-image:url(img/4.jpg);
+	margin-top:0px;
+}
+.pic5{
+	height:200px;
+
+	width:200px;
+	float:left;
+	margin:30px;
+	background-image:url(img/5.jpg);
+	margin-top:0px;
+}
+.pic6{
+	height:200px;
+	width:200px;
+	float:left;
+	margin:30px;
+	background-image:url(img/6.jpg);
+	margin-top:0px;
+}
+.pic7{
+	height:200px;
+	width:200px;
+	float:left;
+	margin:30px;
+	background-image:url(img/7.jpg);
+	margin-top:0px;
+}.pic8{
+	height:200px;
+	width:200px;
+	float:left;
+	margin:30px;
+	background-image:url(img/9.jpg);
+	margin-top:0px;
+}
+.pic9{
+	height:200px;
+	width:200px;
+	float:left;
+	margin:30px;
+	background-image:url(img/14.jpg);
+	margin-top:0px;
+}

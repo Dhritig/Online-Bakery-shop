@@ -1,0 +1,32 @@
+
+.header{
+	height:100px;
+	width:100%;
+	margin-top:0px;
+}
+.slider{
+	height:500px;
+	width:100%;
+	
+}
+.head{
+	height:200px;
+	width:600px;
+	margin-left:200px;
+	}
+
+.login{
+	height:200px;
+	width:900px;
+	margin-left:200px;
+}
+.table{
+	margin-left:450px;
+}
+h1{
+	font-size:50px;
+	color:#F30004;
+}
+body{
+	background-image:url(img/black-retro-lilz-tattoo_177501.jpg);
+}
